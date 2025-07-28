@@ -2,6 +2,7 @@ import SwiftUI
 //test
 //git test
 //branch one feature added
+//updations one
 
 struct LoginView: View {
     @State private var email = ""
